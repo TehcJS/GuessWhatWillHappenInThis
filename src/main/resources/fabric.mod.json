@@ -3,8 +3,8 @@
   "id": "gwwhit",
   "version": "${version}",
 
-  "name": "Guess What Will Happen In It",
-  "description": "Fabric mod where anyone can PR anything, concerning or not. I'll merge everything as soon as it works.",
+  "name": "<Error Loading Mod Name>",
+  "description": "<Error Loading Mod Description>",
   "authors": [
     "anatom3000",
     "JFronny",
@@ -16,7 +16,8 @@
     "Noaaan",
     "PheonixVX",
     "MattiDragon",
-    "Ryorama"
+    "Ryorama",
+    "Tehc"
   ],
   "contact": {
     "sources": "https://github.com/anatom3000/GuessWhatWillHappenInThis"
